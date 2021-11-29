@@ -1,0 +1,40 @@
+body
+{
+ background-image: url(../images/background1.jpg);
+}
+/*<!-- Home Page -->*/
+#Main
+{
+    text-align: center;
+    display: block;
+}
+/*<!-- User Registration Page -->*/
+#NewUser
+{
+    display: none;
+    text-align: center;
+}
+/*<!-- LogIn Page -->*/
+#Login
+{
+    display: none;
+    text-align: center;
+}
+/*<!-- AvailableCourse -->*/
+#AvailableCourse
+{
+    display: none;
+    text-align: center;
+}
+/*<!-- options -->*/
+#Option
+{
+    display: none;
+    text-align: center;
+}
+/*<!-- EnrolledCourse -->*/
+#EnrolledCourse
+{
+    display: none;
+    
+}
